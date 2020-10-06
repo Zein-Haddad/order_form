@@ -1,0 +1,20 @@
+.flex-column {
+    flex-direction: column;
+    height: 100vh;
+}
+
+.login-panel {
+    width: 500px;
+}
+
+.card-size {
+    width: 24rem;
+    height: 4.5em;
+    margin-top: -0.5em;
+    margin-bottom: -0.5em;
+}
+
+.card-hover:hover {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    cursor: grab;
+}
